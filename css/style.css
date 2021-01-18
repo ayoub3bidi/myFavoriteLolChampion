@@ -1,3 +1,7 @@
+body { 
+  background: #1a1a1a !important; 
+}
+
 header {
     position: relative;
     background-color: black;
