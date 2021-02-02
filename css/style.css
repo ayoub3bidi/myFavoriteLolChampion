@@ -18,10 +18,14 @@ nav {
 header {
   position: relative;
   background-color: black;
-  height: 90vh;
+  height: 91vh;
   min-height: 25rem;
   width: 100%;
   overflow: hidden;
+}
+
+#Home {
+  height: 99vh;
 }
 
 header video {
@@ -57,7 +61,7 @@ header .overlay {
 
 h1 {
   color: #ac904f;
-  font-family: 'Teko', sans-serif;
+  font-family: 'Teko', sans-serif !important;
 }
 
 @media (pointer: coarse) and (hover: none) {
